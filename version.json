@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.5.0",
+  "versionCode": 20260926,
+  "versionName": "20260926",
   "updateMessage": "New server added + Bug fixes",
   "apkUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v2.5.0/app.apk",
   "forceUpdate": true
